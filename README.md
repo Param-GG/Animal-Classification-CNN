@@ -22,29 +22,18 @@ The trained model achieved an accuracy of 74.6% on the test set, indicating its 
 ### Usage
 To reproduce the results or further experiment with the model, follow these steps:
 
-Clone the repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/your-username/dogs-vs-cats-cnn.git
-Open the Jupyter notebook in Google Colab.
-
-Run the cells in the notebook sequentially to load the dataset, define the model, train the model, and evaluate its performance.
+- Clone the repository to your local machine.
+- Open the Jupyter notebook in Google Colab.
+- Run the cells in the notebook sequentially to load the dataset, define the model, train the model, and evaluate its performance.
 
 Optionally, you can tweak hyperparameters, modify the architecture, or use transfer learning to improve the model further.
 
 ### Dependencies
 Make sure you have the following dependencies installed:
 
-TensorFlow
-Keras
-NumPy
-Matplotlib
-
-You can install these dependencies using the following:
-
-bash
-Copy code
-pip install tensorflow keras numpy matplotlib
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
 
 Feel free to explore, modify, and enhance the code as needed.
